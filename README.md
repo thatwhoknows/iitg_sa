@@ -101,13 +101,13 @@ The graphs below show the final `price` reacting to changes in `occupancy_ratio`
 
 | Graph | Graph |
 | :---: | :---: |
-| ![Graph 1](1.png) | ![Graph 2](2.png) |
-| ![Graph 3](3.png) | ![Graph 4](4.png) |
-| ![Graph 5](5.png) | ![Graph 6](6.png) |
-| ![Graph 7](7.png) | ![Graph 8](8.png) |
-| ![Graph 9](9.png) | ![Graph 10](10.png) |
-| ![Graph 11](11.png) | ![Graph 12](12.png) |
-| ![Graph 13](13.png) | ![Graph 14](14.png) |
+| ![Graph 1](/Final_Hackathon_Capstone/1.png) | ![Graph 2](/Final_Hackathon_Capstone/2.png) |
+| ![Graph 3](/Final_Hackathon_Capstone/3.png) | ![Graph 4](/Final_Hackathon_Capstone/4.png) |
+| ![Graph 5](/Final_Hackathon_Capstone/5.png) | ![Graph 6](/Final_Hackathon_Capstone/6.png) |
+| ![Graph 7](/Final_Hackathon_Capstone/7.png) | ![Graph 8](/Final_Hackathon_Capstone/8.png) |
+| ![Graph 9](/Final_Hackathon_Capstone/9.png) | ![Graph 10](/Final_Hackathon_Capstone/10.png) |
+| ![Graph 11](/Final_Hackathon_Capstone/11.png) | ![Graph 12](/Final_Hackathon_Capstone/12.png) |
+| ![Graph 13](/Final_Hackathon_Capstone/13.png) | ![Graph 14](/Final_Hackathon_Capstone/14.png) |
 
 ## Getting Started
 
