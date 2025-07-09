@@ -96,7 +96,7 @@ This section demonstrates the model's responsiveness by plotting the calculated 
 
 ### Comparative Analysis
 
-The graphs below show the final `price` reacting to changes in `occupancy_ratio` and `current_queue` over a simulated period. Notice how the price rises sharply as occupancy crosses the 50% threshold and increases further when a queue begins to form.
+The graphs below show the final `price` reacting to changes in `occupancy_ratio`, `demand`, `current_queue`, and other variables over a simulated period. Notice how the price rises sharply as occupancy crosses the 50% threshold and increases further when a queue begins to form.
 
 
 | Graph | Graph |
