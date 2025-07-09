@@ -98,8 +98,16 @@ This section demonstrates the model's responsiveness by plotting the calculated 
 
 The graphs below show the final `price` reacting to changes in `occupancy_ratio` and `current_queue` over a simulated period. Notice how the price rises sharply as occupancy crosses the 50% threshold and increases further when a queue begins to form.
 
-<!-- Placeholder for graphs comparing the dynamic price against key metrics like occupancy and queue length. This will visually demonstrate the model's responsiveness. -->
-![Placeholder Graph](https://via.placeholder.com/800x400.png?text=Price+vs.+Occupancy+%26+Queue+Length)
+
+| Graph | Graph |
+| :---: | :---: |
+| ![Graph 1](1.png) | ![Graph 2](2.png) |
+| ![Graph 3](3.png) | ![Graph 4](4.png) |
+| ![Graph 5](5.png) | ![Graph 6](6.png) |
+| ![Graph 7](7.png) | ![Graph 8](8.png) |
+| ![Graph 9](9.png) | ![Graph 10](10.png) |
+| ![Graph 11](11.png) | ![Graph 12](12.png) |
+| ![Graph 13](13.png) | ![Graph 14](14.png) |
 
 ## Getting Started
 
